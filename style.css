@@ -78,9 +78,9 @@ h1 {
 }
 
 #section-blog {
+    height: 780px;
     margin-top: 80px;
     box-shadow: 10px;
-    height: 780px;
 }
 
 .section-design {
@@ -93,25 +93,26 @@ h1 {
 }
 
 .section-design p {
-    color: #676767;
     width: 500px;
     margin: 10px auto;
+    color: #676767;
 }
 
 .recipies-blog {
-    width: 100vw;
-    height: auto;
     display: flex;
     justify-content: center;
     margin-top: 50px;
+    width: 1350pxpx;
+    height: auto;
 }
 
 .blog-customize {
-    width: 395px;
+    width: 26%;
     background: #fff;
-    margin: 0px 25px;
-    padding: 21px;
-    border-radius: 10px;
+    margin: 0px 20px;
+    padding: 15px;
+    border-radius: 25px;
+    box-shadow: 10px 10px 30px rgb(100, 96, 96);
 }
 
 .blog-customize h2 {
